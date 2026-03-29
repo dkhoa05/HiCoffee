@@ -1,5 +1,4 @@
-Đồ án môn: Lập trình Web
-# Hi Coffee
+# Hi Coffee - Đồ án môn: Lập trình Web
 
 Website bán đồ uống & đồ ăn nhẹ (PHP thuần, MySQL), có cửa hàng cho khách, khu vực quản trị và bảng điều khiển thống kê đơn hàng.
 
